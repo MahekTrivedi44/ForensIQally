@@ -155,9 +155,23 @@ def build_filtered_index(log_lines):
 
 class ThreatRAG:
     def __init__(self, log_lines):
-        log_hash = get_log_hash(log_lines)
-        build_index_once(log_hash, log_lines)
+        self.log_lines = log_lines  # Store for use later, but do not upsert
 
+    def search(self, log_lines, top_k=TOP_K):
+        try:
+            client = get_qdrant_client()
+            model = get_model()
+            query_vec = model.encode(" ".join(log_lines[:10]))
+            results = client.search(
+                collection_name=COLLECTION_NAME,
+                query_vector=query_vec,
+                limit=top_k
+            )
+            return "\n".join(sorted(set(hit.payload['text'] for hit in results)))
+        except Exception as e:
+            print("[QDRANT SEARCH ERROR]", e)
+            return ""
+        
     def search(self, log_lines, top_k=TOP_K):
         client = get_qdrant_client()
         model = get_model()
