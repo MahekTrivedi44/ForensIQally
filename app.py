@@ -351,6 +351,7 @@ if uploaded_files:
     for uploaded_file in uploaded_files:
         try:
             content = uploaded_file.read().decode("utf-8")
+            uploaded_file.seek(0)
             lines = content.splitlines()
             labeled_lines = [
                 f"[{uploaded_file.name}] {line}"
