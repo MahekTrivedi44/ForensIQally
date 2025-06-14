@@ -1,0 +1,28 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.env*/          # only folders like `.env/`, `.env3/` etc. (not your `.env` file)
+
+# VSCode settings
+.vscode/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Streamlit auto-generated folders
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Pytest or test outputs
+*.log
+*.coverage
+coverage.xml
+htmlcov/
+
+# OS/system files
+.DS_Store
+Thumbs.db
