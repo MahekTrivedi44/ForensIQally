@@ -1,0 +1,3 @@
+2025-06-01 12:01:25: Failed login attempt for user 'admin' from 10.0.0.5
+2025-06-01 12:02:45: Successful login for user 'jane' from 10.0.0.6
+2025-06-01 12:03:30: Multiple failed login attempts for user 'root' from 10.0.0.7

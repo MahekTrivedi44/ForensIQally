@@ -1,0 +1,2332 @@
+[
+  {
+    "log_id": "log_20250609113155",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:32:09.038674",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609113201",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:32:17.654632",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609113203",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:32:18.404261",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114007",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:40:18.209940",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114008",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:40:19.025839",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114010",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:40:23.376465",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114012",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:40:25.207643",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114218",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:42:31.742742",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114228",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:42:38.956874",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609114400",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T11:44:12.135145",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609124809",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T12:48:21.578826",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609133845",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T13:39:03.902836",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609133900",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T13:39:15.268504",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609134954",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T13:50:10.587307",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609135034",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T13:50:45.959949",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609135035",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T13:50:46.208269",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609144808",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T14:48:20.864769",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609144843",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T14:48:56.132563",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609152412",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T15:24:46.930366",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609160709",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T16:07:44.585611",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609171039",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:10:59.348318",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609172519",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:25:40.815373",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609172732",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:27:45.915164",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609173222",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:32:39.702790",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609173601",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:36:22.275141",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609174327",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T17:43:51.548817",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609191612",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T19:16:33.032969",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609191913",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T19:19:23.408543",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250609193421",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-09T19:34:51.899378",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610102113",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T10:21:24.314576",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610102806",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T10:28:17.139561",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610103120",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T10:31:30.743216",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610104100",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T10:41:13.245349",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610111135",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T11:11:45.652698",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610125343",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T12:53:54.641879",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610130036",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:00:46.079463",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610130422",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:04:30.576757",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610130544",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:05:53.387311",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610130947",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:09:55.352152",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610131312",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:13:22.100769",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610131617",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:16:26.214502",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610131841",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:18:49.061252",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610132054",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:21:05.458284",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610132434",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:24:46.538175",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610132653",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:27:05.903250",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610132849",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:29:00.938199",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610132954",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:30:08.063720",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610133318",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:33:30.757844",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610135048",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:51:01.388806",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610135311",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:53:24.171368",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610135423",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:54:35.281941",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610135749",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T13:58:01.829274",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610140137",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:01:49.037428",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610140408",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:04:25.367637",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610140810",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:08:23.800621",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610141135",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:11:46.545944",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610141439",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:14:51.620337",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610141607",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:16:20.736459",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610141732",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:17:45.864798",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610142528",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:25:39.120825",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610142648",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:27:01.442802",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610142748",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:27:59.849628",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610142855",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T14:29:06.985030",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610172603",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T17:26:18.695505",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610192819",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:28:38.372580",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610193047",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:31:01.319337",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610194256",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:43:10.576915",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610194353",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:44:08.126009",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610194449",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:45:04.132635",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610194808",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:48:21.757602",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610194932",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:49:46.185710",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195114",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:51:31.704499",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195217",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:52:32.332979",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195307",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:53:19.230935",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195435",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:54:51.525203",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195458",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:55:16.381260",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610195522",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T19:55:37.156942",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610200239",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:02:56.238684",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610200326",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:03:39.541196",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610200346",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:04:00.354837",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610200956",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:10:08.980724",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201629",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:16:44.395754",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201709",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:17:22.741634",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201904",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:19:20.499197",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201905",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:19:21.015310",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201904",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:19:22.382392",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610201905",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:19:23.675922",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610203243",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:32:58.558498",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610203625",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:36:39.216777",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610203734",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:37:49.121000",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610204850",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:49:06.787038",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610204932",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:49:47.085145",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610205148",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:52:21.290231",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610205248",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:53:01.135157",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610205453",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:55:18.040913",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610205734",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T20:58:01.864247",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610210120",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:01:34.047989",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610210239",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:02:51.659258",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610210638",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:06:59.268994",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610210900",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:09:21.704630",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610211109",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:11:32.985356",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610211554",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:16:11.096930",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610213301",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:33:32.287822",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610213520",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:35:29.388265",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610213624",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:36:41.520712",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610213923",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:39:45.116894",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610214215",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:42:25.557102",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610214616",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:46:19.928434",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610215013",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:50:17.085657",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610215203",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:52:06.477311",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610215423",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:54:29.278767",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610215635",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:56:42.187070",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610215813",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T21:58:21.262111",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220013",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:00:22.596601",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220448",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:04:52.529321",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220549",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:06:12.753638",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220702",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:07:30.824870",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220817",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:08:20.802547",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610220858",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:09:13.100725",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610221128",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:11:40.992924",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610221335",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:13:52.675963",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610221833",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:18:51.477307",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610222219",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:22:42.256340",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610222342",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:23:58.681040",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250610223424",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-10T22:34:49.219907",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611103704"
+  },
+  {
+    "log_id": "log_20250611104536"
+  },
+  {
+    "log_id": "log_20250611104709"
+  },
+  {
+    "log_id": "log_20250611104954"
+  },
+  {
+    "log_id": "log_20250611105606"
+  },
+  {
+    "log_id": "log_20250611105800"
+  },
+  {
+    "log_id": "log_20250611122122",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:21:30.804864",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611122404",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:24:11.365472",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611123232",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:32:38.634487",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611123447",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:34:55.049252",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611124910",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:49:18.057079",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611125643",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:56:50.867584",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611125812",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T12:58:21.039820",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611130047",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:00:54.320176",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611130351",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:03:59.667767",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611130447",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:04:54.718168",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611130601",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:06:08.826028",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611130908",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:09:16.334275",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611131259",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:13:07.137857",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611131733",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:17:41.318466",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611131821",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:18:28.876314",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611132112",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:21:18.957055",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611132633",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:26:38.749396",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611132828",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:28:35.471392",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611132928"
+  },
+  {
+    "log_id": "log_20250611133010",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:30:23.103474",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611133353"
+  },
+  {
+    "log_id": "log_20250611133515",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:35:22.680984",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611133618"
+  },
+  {
+    "log_id": "log_20250611133758"
+  },
+  {
+    "log_id": "log_20250611133937"
+  },
+  {
+    "log_id": "log_20250611134101"
+  },
+  {
+    "log_id": "log_20250611134220"
+  },
+  {
+    "log_id": "log_20250611134548",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:46:01.593487",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611134626",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:46:38.133359",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611134648",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:47:00.973376",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611134708",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:47:20.847346",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611134730",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:47:42.139720",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611134853",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:49:04.099062",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135221",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:52:33.982884",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135305",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:53:16.381822",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135313",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:53:22.609088",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135349",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:53:59.936842",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135450",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:55:03.079329",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135720",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:57:29.508928",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611135937",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T13:59:49.589153",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611140150",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:01:58.932568",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611140637",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:06:46.674602",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611140918",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:09:28.341616",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611140947",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:09:59.452707",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611141352",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:14:02.773970",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611141432",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:14:45.785878",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611145659",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T14:57:08.349076",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611150925",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:09:38.469979",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611151632",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:16:43.230249",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611152044",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:20:54.266439",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611152612",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:26:23.754229",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611152731",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:27:42.147757",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611153146",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:31:57.015329",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611153218",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:32:28.683885",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611153408",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:34:18.097072",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611153649",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:36:59.407513",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611153930",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:39:38.056268",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611154321",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:43:31.440540",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611155531",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T15:55:43.621781",
+    "sections_completed": true,
+    "length_summary": 1917,
+    "length_risk": 1986
+  },
+  {
+    "log_id": "log_20250611160012",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:00:20.482024",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611160152"
+  },
+  {
+    "log_id": "log_20250611160236",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:02:47.178338",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611160640",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:06:49.647374",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611161000",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:10:10.938403",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611161406",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:14:18.108425",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611161522",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:15:33.407535",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611161949",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:19:58.425854",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611162216",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:22:28.271357",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611162611",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:26:20.827416",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611162719",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:27:28.692911",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611163211",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:32:16.202334",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611163439",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:34:43.433868",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611163608",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:36:18.588419",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611163842",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:38:53.818759",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611164208",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:42:21.127814",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611165039",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:50:51.392993",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611165215",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:52:27.956532",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611165340",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:53:49.470200",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611165520",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T16:55:29.690624",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611170046",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:00:56.447896",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611170233",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:02:43.519190",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611170337",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:03:47.752320",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611170707"
+  },
+  {
+    "log_id": "log_20250611171111",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:11:23.593791",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611171159",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:12:08.807946",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611171627",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T17:16:38.994340",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611201421",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:14:24.976321",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611202214",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:22:21.489276",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611202524",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:25:29.821018",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611203043",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:30:53.512872",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611203308",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:33:19.168389",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611204153",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:42:03.694663",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611205146",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:51:58.424069",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611205431",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:54:43.183509",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611205610",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T20:56:21.603492",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611210319",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:03:30.765053",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611210440",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:04:51.461081",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611210556",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:06:07.780891",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611212110",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:21:15.145257",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611212929",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:29:36.302993",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611213035"
+  },
+  {
+    "log_id": "log_20250611213312"
+  },
+  {
+    "log_id": "log_20250611213350"
+  },
+  {
+    "log_id": "log_20250611213538",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:35:48.084433",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611213611",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:36:15.137002",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611213626",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:36:29.840062",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611213746",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:37:52.377766",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611214313",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:43:20.355977",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611215240",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:52:46.173162",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611215419",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T21:54:25.013996",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611220310",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T22:03:22.084398",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611220357",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T22:04:08.323622",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611221553",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T22:16:03.053286",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250611221616",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-11T22:16:20.784940",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612100210",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T10:02:18.120766",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612100327",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T10:03:35.799470",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612101208"
+  },
+  {
+    "log_id": "log_20250612101510",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T10:15:21.937887",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612101608",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T10:16:18.045282",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612110044",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:00:52.382898",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612110230",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:02:39.059340",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612110615",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:06:19.695925",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612110815",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:08:23.845967",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612111025",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:10:36.654702",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612111245",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:12:56.032340",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612111522",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:15:46.631616",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612111644",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:16:55.245600",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612111820",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:18:36.820442",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612112254",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:23:02.955137",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612112819",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:28:27.676835",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612113015",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:30:26.770242",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612113303",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:33:11.418945",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612113406",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:34:15.140374",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114219",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:42:27.250952",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114439",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:44:48.233888",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114519",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:45:30.127155",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114700",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:47:04.579103",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114740",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:47:45.189665",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114741",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:47:45.485368",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612114805",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T11:48:09.364951",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612123537",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:35:45.825071",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612123733",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:37:41.773560",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612123739",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:37:43.358610",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612123743",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:37:47.274291",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612124615",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:46:38.864226",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612124918",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:49:25.145599",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612124942",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:49:45.407888",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612124958",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:50:02.394401",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612124958",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:50:02.704956",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612125006",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T12:50:10.287895",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612130028",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:00:43.107227",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612130101",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:01:05.238504",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612130112",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:01:16.503511",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612130113",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:01:16.812984",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612130119",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:01:23.280262",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131245",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:12:57.945641",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131448",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:14:52.097720",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131508",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:15:11.643740",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131514",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:15:17.576125",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131513",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:15:17.644952",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612131514_enhanced",
+    "log_type": "Unknown Log Type",
+    "timestamp": "2025-06-12T13:15:21.869675",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132134",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:21:43.323773",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132156",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:22:00.076142",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132208",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:22:12.268610",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132209",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:22:12.573219",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132210",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:22:13.276763",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612132210_enhanced"
+  },
+  {
+    "log_id": "log_20250612132532"
+  },
+  {
+    "log_id": "case_20250612134706",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:47:11.750649",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612134915",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:49:26.366529",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612135603",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:56:14.982181",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612135619",
+    "log_type": "Windows Event Log",
+    "timestamp": "2025-06-12T13:56:28.083917",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612135658",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T13:57:05.508379",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612140116",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:01:22.913428",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612142722",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:27:28.345872",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612142836",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:28:43.599590",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612144303",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:43:10.088016",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612144346",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:43:53.898806",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612144423",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:44:29.090486",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612144737",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:47:43.305638",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612145424",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T14:54:30.367443",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612145601",
+    "log_type": "Unknown Log Type",
+    "timestamp": "2025-06-12T14:56:06.038696",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612150102",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:01:08.716574",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612150251",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:02:58.535766",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612150553",
+    "log_type": "Unknown Log Type",
+    "timestamp": "2025-06-12T15:05:58.080351",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "case_20250612152658"
+  },
+  {
+    "log_id": "log_20250612153114",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:31:26.028561",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153154",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:32:03.565810",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153313",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:33:20.132464",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153434",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:34:37.710182",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153445",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:34:49.680597",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153446",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:34:49.818494",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153452",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:34:56.067993",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153705",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:37:12.246201",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612153833",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:38:45.750853",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154002",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:40:10.273438",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154126",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:41:34.968725",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154200",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:42:04.379506",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154210",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:42:14.577557",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154211",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:42:15.619605",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154218",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:42:22.338657",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154341",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:43:49.244426",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154404",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:44:07.705318",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154408",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:44:12.524761",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154412",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:44:16.720391",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154419",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:44:22.855631",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154635",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:46:42.650620",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154724",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:47:27.182765",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612154736"
+  },
+  {
+    "log_id": "log_20250612154736"
+  },
+  {
+    "log_id": "log_20250612154805"
+  },
+  {
+    "log_id": "log_20250612154916"
+  },
+  {
+    "log_id": "log_20250612154959"
+  },
+  {
+    "log_id": "log_20250612155058",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T15:51:06.776476",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612160428",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:04:44.092710",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612160826"
+  },
+  {
+    "log_id": "log_20250612161004",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:10:14.109417",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612161240",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:12:49.055888",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612161307",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:13:17.255307",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612161832",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:18:41.530823",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612162557",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:26:06.248130",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612162627",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:26:35.678657",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612162650",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:26:59.797607",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612163500",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T16:35:10.806902",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612174848",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:48:55.573403",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175050",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:50:53.933916",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175302",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:53:05.732038",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175336",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:53:44.702211",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175437",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:54:45.918294",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175625",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:56:28.999887",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175711",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:57:15.012978",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612175812",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T17:58:19.904254",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612180030",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:00:34.045291",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612180208",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:02:11.869844",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612180255",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:02:58.867215",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612180510",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:05:14.302932",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612180742",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:07:45.855253",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612181100",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:11:04.201169",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612181728",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:17:32.083463",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612185031",
+    "log_type": "Unknown Log Type",
+    "timestamp": "2025-06-12T18:50:36.378495",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612185346",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T18:53:52.922615",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612190205",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T19:02:09.381838",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612190447",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T19:04:54.286451",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612191057",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T19:11:00.956216",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612195503",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T19:55:08.413307",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612200819",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:08:24.776371",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201045",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:10:50.069575",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201056",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:11:00.929937",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201109",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:11:15.461684",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201122",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:11:27.343822",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201146",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:11:52.821455",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201724",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:17:33.044239",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612201843",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:18:48.602969",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612202004",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:20:09.292944",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612202138",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:21:42.410497",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612202224",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:22:29.165970",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612202635",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:26:39.848151",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612202744",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:28:01.560260",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612203010",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:30:27.674814",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612203819",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:38:31.109216",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612204408",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:44:13.142888",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612204614",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T20:46:19.701889",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210023",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:00:27.810146",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210051",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:00:57.244709",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210351",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:03:56.997256",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210717",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:07:33.983193",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210849",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:08:55.829079",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612210933",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:09:38.698204",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612211432",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:14:37.457964",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612211637",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:16:42.678504",
+    "confidence": "Extract from LLM result manually if needed"
+  },
+  {
+    "log_id": "log_20250612212101",
+    "log_type": "Authentication Log",
+    "timestamp": "2025-06-12T21:21:06.838879",
+    "confidence": "Extract from LLM result manually if needed"
+  }
+]

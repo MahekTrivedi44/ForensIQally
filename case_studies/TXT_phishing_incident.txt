@@ -1,0 +1,6 @@
+2025-03-09 08:45:22: Email from external sender suspicious@lookalike-bank.com received
+2025-03-09 08:46:12: User "asmith" clicked link in email: http://secure-banking-alert.net/login
+2025-03-09 08:46:28: Credentials entered on fake portal by asmith
+2025-03-09 08:47:55: Login from foreign IP 122.45.23.11 using asmith’s credentials
+2025-03-09 08:48:32: Mailbox rules created to auto-forward emails to attacker@protonmail.com
+2025-03-09 08:50:00: Internal phishing emails sent from asmith@corp.com to 80 employees

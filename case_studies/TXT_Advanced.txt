@@ -1,0 +1,14 @@
+2025-06-07 22:15:01 INFO  [AuthService] User 'alice' logged in successfully from IP 192.168.1.101
+2025-06-07 22:16:12 WARN  [WebServer] High latency detected: average response time 1200ms (threshold 500ms)
+2025-06-07 22:16:15 ERROR [Database] Connection timeout to DB cluster node 'db-node-3' after 5 seconds
+2025-06-07 22:16:20 INFO  [Cache] Cache miss rate increased to 25% in the last 10 minutes
+2025-06-07 22:17:05 ERROR [WebServer] 503 Service Unavailable: downstream service 'AuthService' unreachable
+2025-06-07 22:17:08 ERROR [AuthService] Failed to validate token for user 'bob': token expired
+2025-06-07 22:17:10 WARN  [Database] Query latency spike: avg 2000ms, recent queries timing out
+2025-06-07 22:18:00 INFO  [BackupJob] Scheduled backup started for database 'prod_db'
+2025-06-07 22:18:30 ERROR [BackupJob] Backup failed: unable to connect to storage endpoint 's3-prod-backups'
+2025-06-07 22:18:45 INFO  [AuthService] User 'carol' logged out
+2025-06-07 22:19:12 WARN  [WebServer] Increased 503 errors observed, correlating with AuthService errors
+2025-06-07 22:20:01 ERROR [Network] Packet loss detected between WebServer and DB cluster node 'db-node-3'
+2025-06-07 22:20:10 INFO  [Recovery] Initiated failover from 'db-node-3' to 'db-node-1'
+2025-06-07 22:21:00 INFO  [WebServer] Service restored: latency back to normal, 503 errors dropped

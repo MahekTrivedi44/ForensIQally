@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": "2025-06-11T02:45:12.345Z",
+    "rule": {
+      "level": 10,
+      "description": "Multiple failed SSH login attempts",
+      "id": "5715",
+      "groups": ["authentication_failures", "ssh", "bruteforce"]
+    },
+    "agent": {
+      "id": "001",
+      "name": "ubuntu-server"
+    },
+    "manager": {
+      "name": "wazuh-manager"
+    },
+    "source": {
+      "ip": "192.168.1.99"
+    },
+    "data": {
+      "srcip": "192.168.1.99",
+      "srcuser": "root",
+      "srcport": "51422",
+      "protocol": "tcp"
+    },
+    "location": "/var/log/auth.log",
+    "full_log": "Jun 11 02:45:10 ubuntu-server sshd[1032]: Failed password for root from 192.168.1.99 port 51422 ssh2"
+  },
+  {
+    "timestamp": "2025-06-11T03:01:55.882Z",
+    "rule": {
+      "level": 8,
+      "description": "Suspicious file created in critical directory",
+      "id": "5543",
+      "groups": ["file_integrity", "malware"]
+    },
+    "agent": {
+      "id": "001",
+      "name": "ubuntu-server"
+    },
+    "manager": {
+      "name": "wazuh-manager"
+    },
+    "data": {
+      "path": "/etc/init.d/malicious.sh",
+      "action": "added",
+      "mode": "755",
+      "uid": "0",
+      "user": "root"
+    },
+    "location": "syscheck",
+    "full_log": "File '/etc/init.d/malicious.sh' was added by user root (UID 0)"
+  }
+]

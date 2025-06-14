@@ -1,0 +1,7 @@
+2025-04-18 09:00:01: Employee "jdoe" authenticated from HQ terminal
+2025-04-18 09:12:45: Large data transfer detected to external USB (F:\)
+2025-04-18 09:13:10: Attempted connection to external FTP server 82.103.245.11
+2025-04-18 09:15:33: Compressed files HR.zip, Finance.zip found in Temp directory
+2025-04-18 09:16:21: USB disconnected safely
+2025-04-18 10:05:11: VPN connection established from IP 201.44.55.221 (Brazil)
+2025-04-18 10:06:44: Repeated access to confidential payroll.xlsx from OneDrive

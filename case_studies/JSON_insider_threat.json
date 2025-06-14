@@ -1,0 +1,9 @@
+[
+  {"timestamp": "2025-04-18T09:00:01", "event": "User jdoe logged in at HQ terminal"},
+  {"timestamp": "2025-04-18T09:12:45", "event": "Massive data transfer to USB drive F:\\"},
+  {"timestamp": "2025-04-18T09:13:10", "event": "Attempted FTP to 82.103.245.11"},
+  {"timestamp": "2025-04-18T09:15:33", "event": "Sensitive files compressed in Temp directory"},
+  {"timestamp": "2025-04-18T09:16:21", "event": "USB disconnected"},
+  {"timestamp": "2025-04-18T10:05:11", "event": "VPN login from Brazil IP"},
+  {"timestamp": "2025-04-18T10:06:44", "event": "Accessed confidential payroll.xlsx multiple times"}
+]

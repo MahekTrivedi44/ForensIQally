@@ -1,0 +1,8 @@
+[
+  {"timestamp": "2025-03-09T08:45:22", "event": "Phishing email received from suspicious@lookalike-bank.com"},
+  {"timestamp": "2025-03-09T08:46:12", "event": "asmith clicked link to fake login page"},
+  {"timestamp": "2025-03-09T08:46:28", "event": "asmith entered credentials"},
+  {"timestamp": "2025-03-09T08:47:55", "event": "Login from 122.45.23.11 (unauthorized)"},
+  {"timestamp": "2025-03-09T08:48:32", "event": "Mailbox rule created to forward emails externally"},
+  {"timestamp": "2025-03-09T08:50:00", "event": "Phishing emails sent to 80 internal users"}
+]

@@ -1,0 +1,8 @@
+2025-05-20 02:13:04: User "svc_backup" initiated connection to suspicious IP 185.82.127.98
+2025-05-20 02:13:19: Powershell script downloaded from hxxp://malicious-domain.biz/locker.ps1
+2025-05-20 02:13:24: Executed locker.ps1 with elevated privileges
+2025-05-20 02:13:40: Process "locker.exe" started file encryption in D:\HR_Documents\
+2025-05-20 02:15:05: Detected file renaming pattern *.locked
+2025-05-20 02:16:30: Ransom note created at C:\Users\svc_backup\Desktop\READ_ME.txt
+2025-05-20 02:17:55: Backup volume E:\Backup wiped using diskpart
+2025-05-20 02:20:00: Network share \\FinanceServer\Invoices accessed by svc_backup

@@ -1,0 +1,10 @@
+[
+  {"timestamp": "2025-05-20T02:13:04", "event": "User svc_backup connected to 185.82.127.98"},
+  {"timestamp": "2025-05-20T02:13:19", "event": "Downloaded locker.ps1 from hxxp://malicious-domain.biz"},
+  {"timestamp": "2025-05-20T02:13:24", "event": "Executed locker.ps1 with admin rights"},
+  {"timestamp": "2025-05-20T02:13:40", "event": "locker.exe began encrypting D:\\HR_Documents"},
+  {"timestamp": "2025-05-20T02:15:05", "event": "Files renamed with .locked extension"},
+  {"timestamp": "2025-05-20T02:16:30", "event": "Ransom note placed at user desktop"},
+  {"timestamp": "2025-05-20T02:17:55", "event": "Backup drive wiped via diskpart"},
+  {"timestamp": "2025-05-20T02:20:00", "event": "svc_backup accessed \\FinanceServer\\Invoices"}
+]
