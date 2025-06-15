@@ -7,7 +7,7 @@ from analyze_logs import classify_logs_with_llm, analyze_logs, preprocess_logs, 
 # from streamlit_timeline import timeline # Comment out or remove this line
 import plotly.express as px # Import plotly.express
 import pandas as pd # Import pandas for DataFrame creation
-from analyze_logs import get_feedback_counts
+
 from feedback_enhancer import auto_correct_and_rerun
 import os
 import firebase_admin
