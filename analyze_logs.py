@@ -256,7 +256,7 @@ Logs:
 """ + "\n".join([f"{i+1}. {log}" for i, log in enumerate(log_lines[:100])])
 
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     }
 
@@ -287,16 +287,16 @@ Logs:
         print(f"[GROQ ERROR] {e}")
         return []
 
-def get_feedback_counts(filepath="feedback.json"):
-    if not os.path.exists(filepath):
-        return {}
-    with open(filepath, "r") as f:
-        data = json.load(f)
-    counts = {}
-    for entry in data:
-        log_id = entry["log_id"]
-        counts[log_id] = counts.get(log_id, 0) + 1
-    return counts
+# def get_feedback_counts(filepath="feedback.json"):
+#     if not os.path.exists(filepath):
+#         return {}
+#     with open(filepath, "r") as f:
+#         data = json.load(f)
+#     counts = {}
+#     for entry in data:
+#         log_id = entry["log_id"]
+#         counts[log_id] = counts.get(log_id, 0) + 1
+#     return counts
 
 # --- Main Function ---
 # def main(file_path: str, log_id: str, safe_mode=True):
