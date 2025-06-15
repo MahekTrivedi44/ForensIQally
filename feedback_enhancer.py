@@ -1,11 +1,18 @@
 # feedback_enhancer.py
 
-from firebase_utils import db  # add this import
+try:
+    from firebase_utils import db
+except Exception as e:
+    db = None
+    print("[WARN] Firebase unavailable:", e)
 import json
 import difflib
 from analyze_logs import analyze_logs, detect_log_type, store_audit_log
 
 def load_feedback():
+    if not db:
+        print("[WARN] Firebase DB unavailable — skipping feedback load.")
+        return []
     try:
         feedback_docs = db.collection("feedback").stream()
         return [doc.to_dict() for doc in feedback_docs]

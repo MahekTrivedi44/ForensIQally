@@ -75,25 +75,30 @@ from qdrant_client.models import Distance, VectorParams, PointStruct
 from sentence_transformers import SentenceTransformer
 from rag.mitre_loader import load_mitre_attack_docs
 
-# --- Load environment variables ---
+# --- Load .env locally ---
 load_dotenv()
+
+# --- Qdrant config ---
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 QDRANT_URL = os.getenv("QDRANT_URL")
 COLLECTION_NAME = "mitre_attack"
 TOP_K = 5
 BATCH_SIZE = 50
 
-# --- Lazy-load model + Qdrant client ---
+# --- Sanity check ---
+if not QDRANT_API_KEY or not QDRANT_URL:
+    raise ValueError("❌ QDRANT_API_KEY or QDRANT_URL is missing. Check environment variables or deployment secrets.")
 
-@st.cache_resource(show_spinner="🔌 Connecting to Qdrant...")
+# --- Cached Qdrant client ---
+@st.cache_resource(show_spinner="🔌 Connecting to Qdrant Cloud...")
 def get_qdrant_client():
     return QdrantClient(
         url=QDRANT_URL,
         api_key=QDRANT_API_KEY,
-        timeout=30  # ⏱ increase timeout from default 5s → 30s
+        timeout=30
     )
 
-
+# --- Cached embedding model ---
 @st.cache_resource(show_spinner="🧠 Loading embedding model...")
 def get_model():
     return SentenceTransformer("all-MiniLM-L6-v2")
@@ -106,7 +111,7 @@ def get_mitre_embeddings():
     embeddings = model.encode(docs, batch_size=64, show_progress_bar=True)
     return docs, embeddings
 
-# --- Create collection if not already there ---
+# --- Create collection if needed ---
 @st.cache_resource
 def create_collection_if_not_exists():
     client = get_qdrant_client()
@@ -116,17 +121,7 @@ def create_collection_if_not_exists():
             vectors_config=VectorParams(size=384, distance=Distance.COSINE)
         )
 
-# --- Unique cache key per log input ---
-def get_log_hash(log_lines):
-    joined = "\n".join(log_lines[:10])
-    return hashlib.md5(joined.encode()).hexdigest()
-
-# --- Build index but skip if already cached ---
-@st.cache_resource(show_spinner="Building filtered index...")
-def build_index_once(log_hash, log_lines):
-    build_filtered_index(log_lines)
-    return True
-
+# --- Build filtered vector index and push to Qdrant ---
 def build_filtered_index(log_lines):
     model = get_model()
     client = get_qdrant_client()
@@ -134,7 +129,7 @@ def build_filtered_index(log_lines):
 
     log_embed = model.encode(" ".join(log_lines[:10]))
     scores = np.dot(doc_embeddings, log_embed)
-    top_indices = scores.argsort()[-10:][::-1]  # top 10 only
+    top_indices = scores.argsort()[-10:][::-1]  # Top 10 only
 
     create_collection_if_not_exists()
 
@@ -153,11 +148,24 @@ def build_filtered_index(log_lines):
             points=points[i:i + BATCH_SIZE]
         )
 
+# --- Cache-safe wrapper to ensure index builds once ---
+@st.cache_resource(show_spinner="⚙️ Building Qdrant index...")
+def build_index_once(log_hash, log_lines):
+    build_filtered_index(log_lines)
+    return True
+
+# --- Utility: Get consistent cache key for logs ---
+def get_log_hash(log_lines):
+    joined = "\n".join(log_lines[:10])
+    return hashlib.md5(joined.encode()).hexdigest()
+
+# --- RAG Wrapper ---
 class ThreatRAG:
     def __init__(self, log_lines):
-        self.log_lines = log_lines  # Store for use later, but do not upsert
+        self.log_lines = log_lines
 
-    def search(self, log_lines, top_k=TOP_K):
+    def search(self, log_lines=None, top_k=TOP_K):
+        log_lines = log_lines or self.log_lines
         try:
             client = get_qdrant_client()
             model = get_model()
@@ -171,14 +179,3 @@ class ThreatRAG:
         except Exception as e:
             print("[QDRANT SEARCH ERROR]", e)
             return ""
-        
-    def search(self, log_lines, top_k=TOP_K):
-        client = get_qdrant_client()
-        model = get_model()
-        query_vec = model.encode(" ".join(log_lines[:10]))
-        results = client.search(
-            collection_name=COLLECTION_NAME,
-            query_vector=query_vec,
-            limit=top_k
-        )
-        return "\n".join(sorted(set(hit.payload["text"] for hit in results)))

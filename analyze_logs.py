@@ -15,6 +15,9 @@ from rag.vector_store_qdrant import ThreatRAG
 load_dotenv()
 
 API_KEY = os.getenv("GROQ_API_KEY")
+if not API_KEY:
+    raise EnvironmentError("❌ GROQ_API_KEY not set. Please add it in Render environment variables.")
+
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # --- Feature 1: Log Preprocessing and Timeline Generator ---
@@ -156,10 +159,15 @@ Logs:
 
     }
 
+    API_KEY = os.getenv("GROQ_API_KEY")
+    if not API_KEY:
+        raise EnvironmentError("❌ GROQ_API_KEY not set. Please add it in Render environment variables.")
+
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     }
+
 
     response = requests.post(GROQ_URL, headers=headers, json=payload)
 
@@ -183,9 +191,17 @@ Logs:
 
 
 # --- Feature 5 and 6: Feedback & Audit Storage ---
-from firebase_utils import db
+try:
+    from firebase_utils import db
+except Exception as e:
+    db = None
+    print("[WARN] Firebase unavailable:", e)
+
 
 def store_feedback(log_id, feedback, correction):
+    if not db:
+        print("[WARN] Firebase DB unavailable. Feedback not saved.")
+        return
     db.collection("feedback").add({
         "log_id": log_id,
         "feedback": feedback,
@@ -193,6 +209,9 @@ def store_feedback(log_id, feedback, correction):
         "timestamp": firestore.SERVER_TIMESTAMP
     })
 def store_audit_log(log_id, audit_data):
+    if not db:
+        print("[WARN] Firebase DB unavailable. Feedback not saved.")
+        return
     db.collection("audit_logs").document(log_id).set(audit_data)
 
 
@@ -201,7 +220,10 @@ def classify_logs_with_llm(log_lines: list[str]) -> list[dict]:
     import requests
     import json
 
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+    API_KEY = os.getenv("GROQ_API_KEY")
+    if not API_KEY:
+        raise EnvironmentError("❌ GROQ_API_KEY not set. Please add it in Render environment variables.")
+
     GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
     # Batch prompt for ~100 logs
@@ -277,31 +299,31 @@ def get_feedback_counts(filepath="feedback.json"):
     return counts
 
 # --- Main Function ---
-def main(file_path: str, log_id: str, safe_mode=True):
-    with open(file_path, "r") as f:
-        raw_logs = f.read()
+# def main(file_path: str, log_id: str, safe_mode=True):
+#     with open(file_path, "r") as f:
+#         raw_logs = f.read()
 
-    logs = preprocess_logs(raw_logs)
-    if safe_mode:
-        logs = anonymize_logs(logs)
+#     logs = preprocess_logs(raw_logs)
+#     if safe_mode:
+#         logs = anonymize_logs(logs)
 
-    log_type = detect_log_type(logs)
-    report, audit = analyze_logs(logs, log_type)
+#     log_type = detect_log_type(logs)
+#     report, audit = analyze_logs(logs, log_type)
 
-    print("\n--- INCIDENT REPORT ---\n")
-    print(report)
+#     print("\n--- INCIDENT REPORT ---\n")
+#     print(report)
 
-    if audit:
-        store_audit_log(log_id, audit)
+#     if audit:
+#         store_audit_log(log_id, audit)
 
-    # Simulated user feedback capture
-    give_feedback = input("\nWould you like to submit feedback? (y/n): ")
-    if give_feedback.lower() == 'y':
-        fb = input("Enter feedback: ")
-        corr = input("Enter your correction/suggestion: ")
-        store_feedback(log_id, fb, corr)
-        print("Feedback saved.")
+#     # Simulated user feedback capture
+#     give_feedback = input("\nWould you like to submit feedback? (y/n): ")
+#     if give_feedback.lower() == 'y':
+#         fb = input("Enter feedback: ")
+#         corr = input("Enter your correction/suggestion: ")
+#         store_feedback(log_id, fb, corr)
+#         print("Feedback saved.")
 
-# --- Entry Point ---
-if __name__ == "__main__":
-    main(file_path="sample_logs.txt", log_id="log001", safe_mode=True)
+# # --- Entry Point ---
+# if __name__ == "__main__":
+#     main(file_path="sample_logs.txt", log_id="log001", safe_mode=True)
